@@ -8,11 +8,12 @@
 
 ### Homepage
 
-- [x] include bootstrap
+- [x] Chakra ui
 - [x] include custom font
 - [x] include icons
+- [x] install Next.JS
 
-> This template has been chosen: https://themewagon.com/themes/free-bootstrap-ecommerce-template-electro/
+> This template has been chosen: https://www.figma.com/file/b5DgDeYkZmKfiLz6B1EL9U/Ecommerce?node-id=0%3A1
 
 ### Decisions
 

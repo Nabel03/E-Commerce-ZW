@@ -3,7 +3,7 @@ An E-Commerce store with a cart and checkout
 
 ## Tech Stack
 Front-End:
-Vanilla JS, BootStrap, Html, SS
+Next JS, Chakra Ui, CSS
 
 Back-End: Express
 
@@ -25,6 +25,7 @@ Running `npm run dev` will start the server but it will be wrapped in nodemon wh
 
 To start the front end do the following
 
+1. `npm run dev`
 1. `cd frontend`
 
 2. `php -S 0.0.0.0:8080`
