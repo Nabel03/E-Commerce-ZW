@@ -36,3 +36,4 @@ You can also serve files using your favourate tool or place them under xampp's h
 ## Contribution
 
 Please read contribution.md
+https://chakra-ui.com/guides/first-steps
