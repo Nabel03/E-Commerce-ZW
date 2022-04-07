@@ -12,7 +12,7 @@ import {
 */}
 export default function Footer() {
   return (
-    <Container as="footer" role="contentinfo" bg="tomato">
+    <Container maxW='full' as="footer" role="contentinfo" bg="tomato" >
     <Stack
       spacing="8"
       direction={{
@@ -113,7 +113,7 @@ export default function Footer() {
       align="center"
     >
       <Text fontSize="sm" color="subtle">
-        &copy; {new Date().getFullYear()} Chakra UI Pro, Inc. All rights reserved.
+        &copy; {new Date().getFullYear()} JSHUB, Inc. All rights reserved.
       </Text>
       <ButtonGroup variant="ghost">
         {/*<IconButton
