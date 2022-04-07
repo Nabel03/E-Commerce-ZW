@@ -8,6 +8,7 @@ export default function About() {
 ECommerce ZW is a platform that connects buyers and sellers.<br></br>
 It is a free to use Next.JS site that is built with Chakra UI.<br></br>
 Once the project is completed it may be upgraded to  mobile and desktop apps.<br></br>
+
 </Text>
 </box>
 </flex>
